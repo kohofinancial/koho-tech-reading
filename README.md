@@ -41,18 +41,8 @@ Which means every other reading won't be voted on. (And is something chosen by t
 | September 21st, 2016 | **Perspectives on the CAP Theorem** |  http://groups.csail.mit.edu/tds/papers/Gilbert/Brewer2.pdf | ORGANIZER |
 | October 24th, 2016   | **Chapter 2, 3, & 4** of **"Artificial Intelligence for Humans, Vol 1: Fundamental Algorithms"** | http://www.heatonresearch.com/book/aifh-vol1-fundamental.html | VOTE |
 | November 15th, 2016  | **"The Log: What every software engineer should know about real-time data's unifying abstraction"** | https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying | ORGANIZER |
-
-* December 13th, 2016
-  ::
-  **"Chapter 5, 6, & 7 of "Artificial Intelligence for Humans, Vol 1: Fundamental Algorithms"**
-  http://www.heatonresearch.com/book/aifh-vol1-fundamental.html
-  [CHOSEN BY VOTE]
-
-* January 10th, 2017
-  ::
-  **"Notes on Distributed Systems for Young Bloods"**
-  http://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/
-  [CHOSEN BY ORGANIZER]
+| December 13th, 2016  | **"Chapter 5, 6, & 7 of "Artificial Intelligence for Humans, Vol 1: Fundamental Algorithms"** | http://www.heatonresearch.com/book/aifh-vol1-fundamental.html | VOTE |
+| January 10th, 2017   | **"Notes on Distributed Systems for Young Bloods"** | http://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/ | ORGANIZER |
 
 * February 17th, 2017
   ::
