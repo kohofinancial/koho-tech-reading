@@ -31,3 +31,17 @@ Every other meeting, the reading will be voted on. (To keep things fun and inter
 
 Which means every other reading won't be voted on. (And is something chosen by the organizer.)
 
+
+## Readings
+
+* July 27th, 2016
+  ::
+  *"Introduction to Distributed System Design"*
+  http://www.hpcs.cs.tsukuba.ac.jp/~tatebe/lecture/h23/dsys/dsd-tutorial.html
+  [CHOSEN BY ORGANIZER]
+
+* August 24th, 2016
+  ::
+  *Chapter 1* of *"Artificial Intelligence for Humans, Vol 1: Fundamental Algorithms"*
+  http://www.heatonresearch.com/book/aifh-vol1-fundamental.html
+  [CHOSEN BY VOTE]
