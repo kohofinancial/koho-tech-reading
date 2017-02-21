@@ -45,3 +45,15 @@ Which means every other reading won't be voted on. (And is something chosen by t
   **Chapter 1** of **"Artificial Intelligence for Humans, Vol 1: Fundamental Algorithms"**
   http://www.heatonresearch.com/book/aifh-vol1-fundamental.html
   [CHOSEN BY VOTE]
+
+* September 21st, 2016
+  ::
+  **Perspectives on the CAP Theorem**
+  http://groups.csail.mit.edu/tds/papers/Gilbert/Brewer2.pdf
+  [CHOSEN BY ORGANIZER]
+
+* October 24th, 2016
+  ::
+  **Chapter 2, 3, & 4** of **"Artificial Intelligence for Humans, Vol 1: Fundamental Algorithms"**
+  http://www.heatonresearch.com/book/aifh-vol1-fundamental.html
+  [CHOSEN BY VOTE]
