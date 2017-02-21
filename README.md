@@ -81,3 +81,9 @@ Which means every other reading won't be voted on. (And is something chosen by t
   **Chapter 8, 9, & 10** of **"Artificial Intelligence for Humans, Vol 1: Fundamental Algorithms"**
   http://www.heatonresearch.com/book/aifh-vol1-fundamental.html
   [CHOSEN BY VOTE]
+
+* March 7th, 2017
+  ::
+  **"Immutability Changes Everything (RICON 2012 Talk)"**
+  https://vimeo.com/52831373
+  [CHOSEN BY ORGANIZER]
