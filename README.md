@@ -57,3 +57,15 @@ Which means every other reading won't be voted on. (And is something chosen by t
   **Chapter 2, 3, & 4** of **"Artificial Intelligence for Humans, Vol 1: Fundamental Algorithms"**
   http://www.heatonresearch.com/book/aifh-vol1-fundamental.html
   [CHOSEN BY VOTE]
+
+* November 15th, 2016
+  ::
+  **"The Log: What every software engineer should know about real-time data's unifying abstraction"**
+  https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying
+  [CHOSEN BY ORGANIZER]
+
+* December 13th, 2016
+  ::
+  **"This reading is Chapter 5, 6, & 7 of "Artificial Intelligence for Humans, Vol 1: Fundamental Algorithms"**
+  http://www.heatonresearch.com/book/aifh-vol1-fundamental.html
+  [CHOSEN BY VOTE]
