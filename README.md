@@ -46,3 +46,4 @@ Which means every other reading won't be voted on. (And is something chosen by t
 | February 17th, 2017  | **Chapter 8, 9, & 10** of **"Artificial Intelligence for Humans, Vol 1: Fundamental Algorithms"** | http://www.heatonresearch.com/book/aifh-vol1-fundamental.html | VOTE |
 | March 7th, 2017      | **"Immutability Changes Everything (RICON 2012 Talk)"** | https://vimeo.com/52831373 & http://cidrdb.org/cidr2015/Papers/CIDR15_Paper16.pdf | ORGANIZER |
 | April 4th, 2017      | **"How the Bitcoin Protocol actually works"** | http://www.michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/ | VOTE |
+| May 2nd, 2017        | **"Kafka: a Distributed Messaging System for Log Processing"** | http://notes.stephenholiday.com/Kafka.pdf | ORGANIZER |
