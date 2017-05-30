@@ -48,3 +48,4 @@ Which means every other reading won't be voted on. (And is something chosen by t
 | April 4th, 2017      | **"How the Bitcoin Protocol actually works"** | http://www.michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/ | VOTE |
 | May 2nd, 2017        | **"Kafka: a Distributed Messaging System for Log Processing"** | http://notes.stephenholiday.com/Kafka.pdf | ORGANIZER |
 | May 30th, 2017       | **"On Designing and Deploying Internet-Scale Services"** | https://www.usenix.org/conference/lisa-07/designing-and-deploying-internet-scale-services | VOTE |
+| June 28th, 2017      | **"Chord: A Scalable Peer-to-peer Lookup Service for Internet Applications"** | https://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf | ORGANIZER |
